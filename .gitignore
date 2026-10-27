@@ -13,3 +13,7 @@ _autosave-*
 fp-info-cache
 *.bak
 \#auto_saved_files\#
+
+# Prove al banco (generati da test_banco/esegui.sh)
+test_banco/banco
+test_banco/estratto.inc
