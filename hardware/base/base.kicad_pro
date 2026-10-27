@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "filename": "base.kicad_pro",
+    "version": 3
+  },
+  "sheets": [
+    [
+      "fbb7b113-5886-4441-a5fa-a97bc12bbeac",
+      "Root"
+    ]
+  ],
+  "text_variables": {},
+  "erc": {
+    "erc_exclusions": [
+      [
+        "pin_to_pin|965200|482600|3a34c18d-aebb-49be-85eb-7a762ba26f95|a6fa1e15-2f25-4e83-9230-435ccb041411|/fbb7b113-5886-4441-a5fa-a97bc12bbeac|/fbb7b113-5886-4441-a5fa-a97bc12bbeac|/fbb7b113-5886-4441-a5fa-a97bc12bbeac",
+        "V3 del CH340C su VCC a 3,3 V come da datasheet (funzionamento a 3,3 V): non \u00e8 un conflitto con VOUT di U3"
+      ]
+    ]
+  }
+}

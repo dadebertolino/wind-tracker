@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# KiCad: backup, cache e file personali di sessione
+*-backups/
+_autosave-*
+*.kicad_prl
+*.lck
+fp-info-cache
+*.bak
+\#auto_saved_files\#

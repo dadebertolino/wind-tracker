@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "wind-tracker")(type "KiCad")(uri "${KIPRJMOD}/../librerie/wind-tracker.pretty")(options "")(descr "Impronte del wind tracker"))
+)

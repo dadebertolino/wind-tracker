@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "wind-tracker")(type "KiCad")(uri "${KIPRJMOD}/../librerie/wind-tracker.kicad_sym")(options "")(descr "Simboli del wind tracker"))
+)
